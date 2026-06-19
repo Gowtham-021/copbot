@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+env.bak/
+.venv/
+
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+build/
+dist/
+
+# Distribution / packaging
+.eggs/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.gguf
+*.bin
+
+# Flask session files
+flask_session/
+
+# Pycache
+__pycache__/
+
+# Logs
+*.log
